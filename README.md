@@ -20,6 +20,7 @@ LeetCode_Daily Practice
 | ------- |
 | [0011-container-with-most-water](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/0011-container-with-most-water) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,4 +46,8 @@ LeetCode_Daily Practice
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/0175-combine-two-tables) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
