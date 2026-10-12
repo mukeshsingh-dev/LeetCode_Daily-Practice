@@ -21,6 +21,7 @@ LeetCode_Daily Practice
 | [0011-container-with-most-water](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/0011-container-with-most-water) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@ LeetCode_Daily Practice
 | ------- |
 | [0011-container-with-most-water](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/0011-container-with-most-water) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,4 +52,12 @@ LeetCode_Daily Practice
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
+## Hash Table
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->
