@@ -23,6 +23,7 @@ LeetCode_Daily Practice
 | [2778-sum-of-squares-of-special-elements](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@ LeetCode_Daily Practice
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -71,8 +73,10 @@ LeetCode_Daily Practice
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
