@@ -24,6 +24,7 @@ LeetCode_Daily Practice
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ LeetCode_Daily Practice
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -61,6 +63,7 @@ LeetCode_Daily Practice
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
