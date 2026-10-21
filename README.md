@@ -7,6 +7,7 @@ LeetCode_Daily Practice
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/0010-regular-expression-matching) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/smukesh160/LeetCode_Daily-Practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
